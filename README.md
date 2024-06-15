@@ -165,6 +165,5 @@ This project automates sending scheduled messages and attachments to WhatsApp gr
 ## Contribution
 Feel free to submit issues or pull requests to improve the project.
 
-## License
-[Your chosen license]
+
 
