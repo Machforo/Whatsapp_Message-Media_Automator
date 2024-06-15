@@ -1,0 +1,13 @@
+[
+    {
+        "message_file": "msg.txt",
+        "time": "2024-06-15 15:01:00",
+        "attachment_path": "C:\\movies\\flower.jpg"
+    },
+    {
+        "message_file": "msg.txt",
+        "time": "2024-06-15 15:02:00",
+        "attachment_path": "C:\\movies\\h.jpg"
+
+    }
+]

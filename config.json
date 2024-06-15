@@ -1,0 +1,11 @@
+{
+    "service_path": "msedgedriver.exe",
+    "cookies_file": "whatsapp_cookies.pkl",
+    "schedule_file": "attach_schedule.json",
+    "groups_file": "groups.txt",
+    "search_box_xpath": "//div[@contenteditable='true' and @data-tab='3']",
+    "send_button_xpath": "//span[@data-icon='send']",
+    "attachment_button_xpath": "//div[@title='Attach']",
+    "image_box_xpath": "//input[@accept='image/*,video/mp4,video/3gpp,video/quicktime']",
+    "caption_box_xpath": "/html/body/div[1]/div/div/div[2]/div[2]/div[2]/span/div/div/div/div[2]/div/div[1]/div[3]/div/div/div[2]/div[1]/div[1]"
+}
