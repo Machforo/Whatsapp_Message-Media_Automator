@@ -117,53 +117,7 @@ Automate sending scheduled messages and attachments to WhatsApp groups using Sel
 - **Logging:** Implement logging to keep track of sent messages, errors, and other significant events.
 - **Security:** Be cautious with storing sensitive data like cookies. Ensure they are stored securely and are not exposed to unauthorized users.
 
-## Contribution
 
-Feel free to submit issues or pull requests to improve the project. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Sample README Content
-
-```markdown
-# WhatsApp Automation with Selenium and Python
-
-## Overview
-This project automates sending scheduled messages and attachments to WhatsApp groups using Selenium and Python. It uses various configurations and schedule files to manage and send content.
-
-## Installation
-1. Clone the repository.
-2. Install the required Python packages:
-    ```sh
-    pip install selenium
-    ```
-3. Configure the JSON files (`config.json`, `msg_schedule.json`, `attach_schedule.json`).
-
-## Usage
-1. **Send Scheduled Messages:**
-    ```sh
-    python main.py
-    ```
-2. **Send Scheduled Attachments:**
-    ```sh
-    python attachment.py
-    ```
-3. **Send Both Messages and Attachments:**
-    ```sh
-    python msg&attach.py
-    ```
-
-## Configuration Files
-- `config.json`: Contains XPath or CSS selectors for WhatsApp elements.
-- `msg_schedule.json`: Defines the schedule and messages to be sent.
-- `attach_schedule.json`: Defines the schedule, attachment paths, and captions.
-
-## Contribution
-Feel free to submit issues or pull requests to improve the project.
 
 
 
