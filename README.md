@@ -98,20 +98,12 @@ Automate sending scheduled messages and attachments to WhatsApp groups using Sel
 
 ## Usage
 
-1. **Send Scheduled Messages:**
+1. **Run The Main script Execution Menu:**
     ```sh
-    python main.py
+    python execute.py
     ```
 
-2. **Send Scheduled Attachments:**
-    ```sh
-    python attachment.py
-    ```
 
-3. **Send Both Messages and Attachments:**
-    ```sh
-    python msg&attach.py
-    ```
 
 ## Best Practices and Tips
 
