@@ -112,6 +112,9 @@ Automate sending scheduled messages and attachments to WhatsApp groups using Sel
 - **Logging:** Implement logging to keep track of sent messages, errors, and other significant events.
 - **Security:** Be cautious with storing sensitive data like cookies. Ensure they are stored securely and are not exposed to unauthorized users.
 
+## References
+- Follow th Whatsapp Automatio Report and Watsapp automation.mp3 for a detailed look into how the code work and run.
+
 
 
 
